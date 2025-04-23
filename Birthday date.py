@@ -1,0 +1,11 @@
+Rahul = input("Rahul, enter your Birthday date: ")
+Kaju = input("Kaju, enter your Birthday date: ")
+Syam = input("Syam, enter your Birthday date: ")
+Abdul = input("Abdul, enter your Birthday date: ")
+Ram = input("Ram, enter your Birthday date: ")
+
+print("\nRahul's Birthday date: " + Rahul)
+print("Kaju's Birthday date: " + Kaju)
+print("Syam's Birthday date: " + Syam)
+print("Abdul's Birthday date: " + Abdul)
+print("Ram's Birthday date: " + Ram)
